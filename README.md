@@ -9,7 +9,7 @@ A comparative analysis was conducted to explore the shifts in UK tourism before 
 - **Insights:** [Link to Project](https://github.com/soichi-berson/mid-bootcamp-project)
 - **Additional Analysis:** Analyzed UK Tourism using Excel and created an informative dashboard. [Link to Additional Analysis](https://github.com/soichi-berson/Excel_UK_Tourism)
 
-## Telecom Customer Churn Prediction (August 2023)
+## Telecom Customer Churn Prediction (August - September 2023)
 To mitigate customer churn in a telecommunications company, a churn prediction initiative was pursued employing machine learning techniques. Additionally, exploratory data analysis was conducted using Jupyter notebooks and Tableau to gain deeper insights into the data.
 
 - **Technologies Used:** Python, Tableau, Power BI
