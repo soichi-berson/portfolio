@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! Here, I showcase various projects that demonstrate my skills in data manipulation, analysis, and visualization.
+Welcome to my data analytics portfolio! Here, I showcase various projects that demonstrate my skills in data manipulation, analysis, and visualization including Machine Learning.
 
 ## BI Projects: Game Sales Analysis (October 2023)
 - **Technologies Used:** Power BI, Tableau
@@ -18,4 +18,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Technologies Used:** Python, Tableau, Power BI
 - **Insights:** [Link to Project](https://github.com/soichi-berson/final_bootcamp_project)
 - **Additional Analysis:** Analyzed telecom customer churn prediction using Power BI. [Link to Additional Analysis](https://github.com/soichi-berson/Practicing-Power-BI-Analyzing-Churned-Customers)
+
+## Machine Learning & Hypotheis Testing from Ironhack bootcamp
+- **Insights:** [Link to Project](https://github.com/soichi-berson/ML_Hypothesis)
 
