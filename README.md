@@ -9,6 +9,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Insights (Power BI):** [Link to Project](https://github.com/soichi-berson/Power_BI_Practice_Game_Sales)
 - **Insights (Tableau):** [Link to Project](https://github.com/soichi-berson/Tableau_practice_game_sales)
 
+
 ## Data Analysis Projects
 
 ### 1. UK Tourism from 2018 to 2022 (July 2023)
@@ -24,6 +25,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 ### 3. (data manuplation) Education Spending and Citizen Happiness: A Comparative Analysis (March 2024) 
 - **Technologies Used:** Python
 - **Insights:** [Link to Project](https://github.com/soichi-berson/education-spending_and_happiness_analysis)
+
 
 ## Machine Learning Projects
 
