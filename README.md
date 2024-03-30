@@ -21,6 +21,10 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Insights:** [Link to Project](https://github.com/soichi-berson/final_bootcamp_project)
 - **Additional Analysis:** Analyzed telecom customer churn prediction using Power BI. [Link to Additional Analysis](https://github.com/soichi-berson/Practicing-Power-BI-Analyzing-Churned-Customers)
 
+### Education Spending and Citizen Happiness: A Comparative Analysis (March 2024) 
+- **Technologies Used:** Python
+- **Insights:** [Link to Project](https://github.com/soichi-berson/education-spending_and_happiness_analysis)
+
 ## Machine Learning Projects
 
 ### Machine Learning & Hypothesis Testing from Ironhack Bootcamp (June - August 2023)
