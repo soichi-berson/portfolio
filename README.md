@@ -35,6 +35,6 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 
 ## AI Projects
 
-### Sentiment analysis LSTM model (April 2024)
+### Sentiment Analysis LSTM model (April 2024)
 - **Insights:** [Link to Project](https://github.com/soichi-berson/sentiment_analysis_LSTM)
 
