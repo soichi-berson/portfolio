@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! Here, I showcase various projects that demonstrate my skills in data manipulation, analysis, and visualization including Machine Learning.
+Welcome to my data analytics portfolio! Here, I showcase various projects that demonstrate my skills in data manipulation, analysis, and visualization including Machine Learning and AI.
 
 ## Business Intelligence Projects
 
@@ -31,4 +31,10 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 
 ### Machine Learning & Hypothesis Testing from Ironhack Bootcamp (June - August 2023)
 - **Insights:** [Link to Project](https://github.com/soichi-berson/ML_Hypothesis)
+
+
+## AI Projects
+
+### Sentiment analysis LSTM_model (April 2024)
+- **Insights:** [Link to Project](https://github.com/soichi-berson/sentiment_analysis_LSTM)
 
