@@ -30,6 +30,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 ## Machine Learning Projects
 
 ### Machine Learning & Hypothesis Testing from Ironhack Bootcamp (June - August 2023)
+- **Technologies Used:** Python
 - **Insights:** [Link to Project](https://github.com/soichi-berson/ML_Hypothesis)
 
 
