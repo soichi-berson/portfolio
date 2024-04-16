@@ -36,7 +36,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 
 ## AI Projects
 
-### 1. ANN-Covid 19 Classification- (December 2023)
+### 1. ANN - Covid-19 Classification - (December 2023)
 - **Insights:** [Link to Project](https://github.com/soichi-berson/ANN_Covid_19_classification))
 
 
