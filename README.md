@@ -45,3 +45,8 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Technologies Used:** Python
 - **Insights:** [Link to Project](https://github.com/soichi-berson/sentiment_analysis_LSTM)
 
+
+### 3. CNN - Tree Classification - (May 2024)
+- **Technologies Used:** Python
+- **Insights:** [Link to Project](https://github.com/soichi-berson/CNN_Tree_Classification)
+
