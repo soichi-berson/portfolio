@@ -26,7 +26,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Technologies Used:** Python
 - **Insights:** [Link to Project](https://github.com/soichi-berson/education-spending_and_happiness_analysis)
 
-### 4. Evalua&on of 4G and Full Fibre Coverage in the UK: A Five-Year Analysis (May 2024) 
+### 4. Evaluation of 4G and Full Fibre Coverage in the UK: A Five-Year Analysis (May 2024) 
 - **Technologies Used:** Python, MongoDB
 - **Insights:** [Link to Project](https://github.com/soichi-berson/4G_FullFibre_Analysis)
 
