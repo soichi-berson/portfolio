@@ -54,3 +54,7 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Technologies Used:** Python
 - **Insights:** [Link to Project](https://github.com/soichi-berson/CNN_Tree_Classification)
 
+## Open University Final Project - (Sep 2025) 
+- **Technologies Used:** Python, KMeans clustering, LSTM anomaly detection, MongoDB, Streamlit
+- **Insights:** [Link to Project](https://github.com/soichi-berson/daily_report-app-OU_final_project-)
+
