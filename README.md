@@ -3,11 +3,9 @@
 Welcome to my data analytics portfolio! Here, I showcase various projects that demonstrate my skills in data manipulation, analysis, and visualization including Machine Learning and AI. 
 
 
-## Machine Learning Projects
-
-### Machine Learning & Hypothesis Testing from Ironhack Bootcamp (June - August 2023)
-- **Technologies Used:** Python
-- **Insights:** [Link to Project](https://github.com/soichi-berson/ML_Hypothesis)
+## Open University Final Project - (Sep 2025) 
+- **Technologies Used:** Python, KMeans clustering, LSTM anomaly detection, MongoDB, Streamlit
+- **Insights:** [Link to Project](https://github.com/soichi-berson/daily_report-app-OU_final_project-)
 
 
 ## AI Projects
@@ -26,10 +24,12 @@ Welcome to my data analytics portfolio! Here, I showcase various projects that d
 - **Technologies Used:** Python
 - **Insights:** [Link to Project](https://github.com/soichi-berson/CNN_Tree_Classification)
 
-## Open University Final Project - (Sep 2025) 
-- **Technologies Used:** Python, KMeans clustering, LSTM anomaly detection, MongoDB, Streamlit
-- **Insights:** [Link to Project](https://github.com/soichi-berson/daily_report-app-OU_final_project-)
 
+## Machine Learning Projects
+
+### Machine Learning & Hypothesis Testing from Ironhack Bootcamp (June - August 2023)
+- **Technologies Used:** Python
+- **Insights:** [Link to Project](https://github.com/soichi-berson/ML_Hypothesis)
 
 ## Business Intelligence Projects
 
