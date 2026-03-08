@@ -1,62 +1,185 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! Here, I showcase various projects that demonstrate my skills in data manipulation, analysis, and visualization including Machine Learning and AI. 
+Welcome to my **Data Analytics Portfolio**.  
+This repository showcases projects demonstrating my skills in **data analysis, machine learning, data visualization, and AI-driven insights** using tools such as **Python, Power BI, Tableau, MongoDB, and Streamlit**.
 
+The projects are presented in **chronological order** to illustrate the progression of my technical and analytical skills.
 
-## Open University Final Project - (Sep 2025) 
-- **Technologies Used:** Python, KMeans clustering, LSTM anomaly detection, MongoDB, Streamlit
-- **Insights:** [Link to Project](https://github.com/soichi-berson/daily_report-app-OU_final_project-)
+---
 
+# Project Overview
 
-## AI Projects
+| Year | Project | Technologies |
+|-----|-----|-----|
+| 2025 | Open University Final Project | Python, KMeans, LSTM, MongoDB, Streamlit |
+| 2024 | Sentiment Analysis (LSTM) | Python |
+| 2024 | CNN Tree Classification | Python |
+| 2024 | 4G & Full Fibre Coverage Analysis | Python, MongoDB |
+| 2024 | Education Spending & Happiness | Python |
+| 2023 | ANN Covid Classification | Python |
+| 2023 | Game Sales Analysis | Power BI, Tableau |
+| 2023 | Telecom Customer Churn Prediction | Python, Tableau, Power BI |
+| 2023 | UK Tourism Analysis | Python, Tableau, Excel |
+| 2023 | ML & Hypothesis Testing (Ironhack) | Python |
 
-### 1. ANN - Covid-19 Classification - (December 2023)
-- **Technologies Used:** Python
-- **Insights:** [Link to Project](https://github.com/soichi-berson/ANN_Covid_19_classification)
+---
 
+# 2025
 
-### 2. Sentiment Analysis LSTM model (April 2024)
-- **Technologies Used:** Python
-- **Insights:** [Link to Project](https://github.com/soichi-berson/sentiment_analysis_LSTM)
+## Open University Final Project — Data Analytics & AI System (September 2025)
 
+**Technologies:**  
+Python, KMeans clustering, LSTM anomaly detection, MongoDB, Streamlit
 
-### 3. CNN - Tree Classification - (May 2024)
-- **Technologies Used:** Python
-- **Insights:** [Link to Project](https://github.com/soichi-berson/CNN_Tree_Classification)
+**Project Link:**  
+https://github.com/soichi-berson/daily_report-app-OU_final_project-
 
+### Overview
+Developed an automated analytics system integrating:
 
-## Machine Learning Projects
+- Machine learning models (KMeans & LSTM)
+- MongoDB data storage
+- Interactive Streamlit dashboards
 
-### Machine Learning & Hypothesis Testing from Ironhack Bootcamp (June - August 2023)
-- **Technologies Used:** Python
-- **Insights:** [Link to Project](https://github.com/soichi-berson/ML_Hypothesis)
+The project demonstrates an **end-to-end data analytics pipeline**, combining data engineering, machine learning, and data visualisation.
 
-## Business Intelligence Projects
+---
 
-### Game Sales Analysis (October 2023)
-- **Technologies Used:** Power BI, Tableau
-- **Insights (Power BI):** [Link to Project](https://github.com/soichi-berson/Power_BI_Practice_Game_Sales)
-- **Insights (Tableau):** [Link to Project](https://github.com/soichi-berson/Tableau_practice_game_sales)
+# 2024
 
+## Sentiment Analysis using LSTM (April 2024)
 
-## Data Analysis Projects
+**Technologies:** Python, LSTM  
 
-### 1. UK Tourism from 2018 to 2022 (July 2023)
-- **Technologies Used:** Python, Tableau, Excel, Statistics
-- **Insights:** [Link to Project](https://github.com/soichi-berson/mid-bootcamp-project)
-- **Additional Analysis:** Analyzed UK Tourism using Excel and created an informative dashboard. [Link to Additional Analysis](https://github.com/soichi-berson/Excel_UK_Tourism)
+**Project Link:**  
+https://github.com/soichi-berson/sentiment_analysis_LSTM
 
-### 2. Telecom Customer Churn Prediction (August - September 2023)
-- **Technologies Used:** Python, Tableau, Power BI
-- **Insights:** [Link to Project](https://github.com/soichi-berson/final_bootcamp_project)
-- **Additional Analysis:** Analyzed telecom customer churn prediction using Power BI. [Link to Additional Analysis](https://github.com/soichi-berson/Practicing-Power-BI-Analyzing-Churned-Customers)
+Implemented a Long Short-Term Memory (LSTM) neural network model to perform sentiment analysis on text data.
 
-### 3. (data manuplation) Education Spending and Citizen Happiness: A Comparative Analysis (March 2024) 
-- **Technologies Used:** Python
-- **Insights:** [Link to Project](https://github.com/soichi-berson/education-spending_and_happiness_analysis)
+---
 
-### 4. Evaluation of 4G and Full Fibre Coverage in the UK: A Five-Year Analysis (May 2024) 
-- **Technologies Used:** Python, MongoDB
-- **Insights:** [Link to Project](https://github.com/soichi-berson/4G_FullFibre_Analysis)
+## CNN — Tree Classification (May 2024)
+
+**Technologies:** Python, Convolutional Neural Networks  
+
+**Project Link:**  
+https://github.com/soichi-berson/CNN_Tree_Classification
+
+Built an image classification model using a CNN architecture to classify tree images.
+
+---
+
+## Evaluation of 4G and Full Fibre Coverage in the UK (May 2024)
+
+**Technologies:** Python, MongoDB  
+
+**Project Link:**  
+https://github.com/soichi-berson/4G_FullFibre_Analysis
+
+Performed a five-year analysis of UK telecommunications infrastructure coverage using data processing and database storage.
+
+---
+
+## Education Spending and Citizen Happiness Analysis (March 2024)
+
+**Technologies:** Python  
+
+**Project Link:**  
+https://github.com/soichi-berson/education-spending_and_happiness_analysis
+
+Explores the relationship between education spending and national happiness indicators through data manipulation and analysis.
+
+---
+
+# 2023
+
+## ANN — Covid-19 Classification (December 2023)
+
+**Technologies:** Python, Artificial Neural Networks  
+
+**Project Link:**  
+https://github.com/soichi-berson/ANN_Covid_19_classification
+
+Developed an ANN model to classify COVID-19 related data using supervised machine learning techniques.
+
+---
+
+## Game Sales Analysis (October 2023)
+
+**Technologies:** Power BI, Tableau  
+
+Power BI Dashboard:  
+https://github.com/soichi-berson/Power_BI_Practice_Game_Sales  
+
+Tableau Dashboard:  
+https://github.com/soichi-berson/Tableau_practice_game_sales
+
+Exploratory analysis of global video game sales data with interactive dashboards.
+
+---
+
+## Telecom Customer Churn Prediction (August–September 2023)
+
+**Technologies:** Python, Tableau, Power BI  
+
+**Project Link:**  
+https://github.com/soichi-berson/final_bootcamp_project
+
+Additional Power BI analysis:  
+https://github.com/soichi-berson/Practicing-Power-BI-Analyzing-Churned-Customers
+
+Machine learning project predicting telecom customer churn with supporting BI dashboards.
+
+---
+
+## UK Tourism Analysis (July 2023)
+
+**Technologies:** Python, Tableau, Excel, Statistics  
+
+**Project Link:**  
+https://github.com/soichi-berson/mid-bootcamp-project
+
+Additional Excel dashboard:  
+https://github.com/soichi-berson/Excel_UK_Tourism
+
+Analysis of UK tourism trends between 2018 and 2022 including statistical analysis and dashboard creation.
+
+---
+
+## Machine Learning & Hypothesis Testing (Ironhack Bootcamp) — June–August 2023
+
+**Technologies:** Python  
+
+**Project Link:**  
+https://github.com/soichi-berson/ML_Hypothesis
+
+Explored machine learning models and statistical hypothesis testing using Python.
+
+---
+
+# Technologies Used
+
+Across these projects I have worked with:
+
+- Python
+- Machine Learning (ANN, CNN, LSTM, KMeans)
+- MongoDB
+- Streamlit
+- Power BI
+- Tableau
+- Excel
+- Statistical Analysis
+
+---
+
+# About Me
+
+Technical Analyst at **Fifty5Blue** specialising in **data analytics, Python automation, and large-scale dataset analysis**.
+
+BSc (Hons) Computing & IT — **First Class Honours (Open University, 2025)**
+
+Fluent in **English and Japanese**.
+
+📍 London, UK
 
 
