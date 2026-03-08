@@ -172,13 +172,7 @@ Across these projects I have worked with:
 
 ---
 
-# About Me
 
-Technical Analyst at **Fifty5Blue** specialising in **data analytics, Python automation, and large-scale dataset analysis**.
-
-BSc (Hons) Computing & IT — **First Class Honours (Open University, 2025)**
-
-Fluent in **English and Japanese**.
 
 📍 London, UK
 
