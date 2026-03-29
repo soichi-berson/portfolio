@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**.  
-This repository showcases projects demonstrating my skills in **data analysis, machine learning, data visualization, and AI-driven insights** using tools such as **Python, Power BI, Tableau, MongoDB, and Streamlit**.
+This repository showcases projects demonstrating my skills in **data analysis, machine learning, data visualization, and AI-driven insights** using tools such as **Python, Power BI, Tableau, MongoDB, Streamlit, and Airflow**.
 
 The projects are presented in **chronological order** to illustrate the progression of my technical and analytical skills.
 
@@ -11,6 +11,7 @@ The projects are presented in **chronological order** to illustrate the progress
 
 | Year | Project | Technologies |
 |-----|-----|-----|
+| 2026 | Automated Data Pipeline | Python, Airflow, AWS |
 | 2025 | Open University Final Project | Python, KMeans, LSTM, MongoDB, Streamlit |
 | 2024 | Sentiment Analysis (LSTM) | Python |
 | 2024 | CNN Tree Classification | Python |
@@ -21,6 +22,28 @@ The projects are presented in **chronological order** to illustrate the progress
 | 2023 | Telecom Customer Churn Prediction | Python, Tableau, Power BI |
 | 2023 | UK Tourism Analysis | Python, Tableau, Excel |
 | 2023 | ML & Hypothesis Testing (Ironhack) | Python |
+
+---
+
+# 2026
+
+## Automated Data Pipeline — Airflow & AWS ETL System (March 2026)
+
+**Technologies:**  
+Python, Apache Airflow, AWS S3, Docker, Pandas, Matplotlib, ReportLab
+
+**Project Link:**  
+https://github.com/soichi-berson/Automated_Data_Pipeline_Airflow_AWS 
+
+### Overview
+Developed an automated ETL pipeline for e-commerce sales reporting, integrating:
+
+- Workflow orchestration using Apache Airflow (DAG-based execution)
+- Cloud storage with AWS S3 and secure access management via IAM
+- Data processing and analysis using Python (Pandas, Matplotlib)
+- Automated PDF report generation
+
+The project demonstrates an **end-to-end data engineering pipeline**, covering data ingestion, transformation, cloud integration, and automated reporting.
 
 ---
 
@@ -161,18 +184,18 @@ Explored machine learning models and statistical hypothesis testing using Python
 
 Across these projects I have worked with:
 
-- Python
-- Machine Learning (ANN, CNN, LSTM, KMeans)
-- MongoDB
-- Streamlit
-- Power BI
-- Tableau
-- Excel
-- Statistical Analysis
+- Python  
+- Data Engineering (ETL pipelines, Apache Airflow)  
+- Cloud Technologies (AWS S3, IAM)  
+- Machine Learning (ANN, CNN, LSTM, KMeans)  
+- Data Processing & Analysis (Pandas, NumPy)  
+- Data Visualisation (Matplotlib, Streamlit, Power BI, Tableau)  
+- Databases (MongoDB)  
+- Containerisation (Docker)  
+- Excel  
+- Statistical Analysis  
 
 ---
-
-
 
 📍 London, UK
 
