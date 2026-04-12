@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**.  
-This repository showcases projects demonstrating my skills in **data analysis, machine learning, data visualization, and AI-driven insights** using tools such as **Python, Power BI, Tableau, MongoDB, Streamlit, and Airflow**.
+This repository showcases projects demonstrating my skills in **data analysis, machine learning, data visualization, and AI-driven insights** using tools such as **Python, Power BI, Tableau, MongoDB, Streamlit, Airflow, and dbt**.
 
 The projects are presented in **chronological order** to illustrate the progression of my technical and analytical skills.
 
@@ -11,6 +11,7 @@ The projects are presented in **chronological order** to illustrate the progress
 
 | Year | Project | Technologies |
 |-----|-----|-----|
+| 2026 | Olist E-Commerce Analytics — dbt + BigQuery | dbt Cloud, BigQuery, SQL |
 | 2026 | Automated Data Pipeline | Python, Airflow, AWS |
 | 2025 | Open University Final Project | Python, KMeans, LSTM, MongoDB, Streamlit |
 | 2024 | Sentiment Analysis (LSTM) | Python |
@@ -26,6 +27,30 @@ The projects are presented in **chronological order** to illustrate the progress
 ---
 
 # 2026
+
+
+## Olist E-Commerce Analytics — dbt + BigQuery (April 2026)
+
+**Technologies:**  
+dbt Cloud, Google BigQuery, SQL, YAML, GitHub
+
+**Project Link:**  
+https://github.com/soichi-berson/olist_portfolio
+
+### Overview
+
+Built an end-to-end analytics engineering project transforming the Brazilian E-Commerce dataset by Olist into analytics-ready data models using dbt and Google BigQuery.
+
+- Layered dbt architecture: sources → staging → marts
+- 6 staging models cleaning and standardising each raw source table
+- 4 mart models (1 fact table, 3 dimension tables) with business logic applied
+- 23 automated data quality tests (unique, not_null)
+- Full model and column documentation via schema.yml
+- Answers business questions such as revenue by product category, seller review performance, and customer spending behaviour
+
+The project demonstrates core **analytics engineering** skills including dimensional modelling, SQL transformation, data quality testing, and documentation.
+
+---
 
 ## Automated Data Pipeline — Airflow & AWS ETL System (March 2026)
 
