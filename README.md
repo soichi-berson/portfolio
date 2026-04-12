@@ -11,7 +11,7 @@ The projects are presented in **chronological order** to illustrate the progress
 
 | Year | Project | Technologies |
 |-----|-----|-----|
-| 2026 | Olist E-Commerce Analytics — dbt + BigQuery | dbt Cloud, BigQuery, SQL |
+| 2026 | Analytics Engineering Pipeline — dbt + BigQuery (Olist E-Commerce) | dbt, BigQuery, SQL |
 | 2026 | Automated Data Pipeline | Python, Airflow, AWS |
 | 2025 | Open University Final Project | Python, KMeans, LSTM, MongoDB, Streamlit |
 | 2024 | Sentiment Analysis (LSTM) | Python |
@@ -29,7 +29,7 @@ The projects are presented in **chronological order** to illustrate the progress
 # 2026
 
 
-## Olist E-Commerce Analytics — dbt + BigQuery (April 2026)
+## dbt Analytics Engineering — Olist E-Commerce Data Modelling (April 2026)
 
 **Technologies:**  
 dbt Cloud, Google BigQuery, SQL, YAML, GitHub
