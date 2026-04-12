@@ -35,7 +35,7 @@ The projects are presented in **chronological order** to illustrate the progress
 dbt Cloud, Google BigQuery, SQL, YAML, GitHub
 
 **Project Link:**  
-https://github.com/soichi-berson/olist_portfolio
+https://github.com/soichi-berson/dbt-olist-analytics
 
 ### Overview
 
