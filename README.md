@@ -46,6 +46,7 @@ This project builds upon the previous Airflow & AWS ETL pipeline, introducing tw
 The project demonstrates an understanding of **software design principles** 
 including low coupling, high cohesion, and environment-based configuration, 
 applied within a production-style data engineering pipeline.
+
 ---
 ## dbt Analytics Engineering — Olist E-Commerce Data Modelling (April 2026)
 
