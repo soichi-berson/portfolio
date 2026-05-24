@@ -11,8 +11,9 @@ The projects are presented in **chronological order** to illustrate the progress
 
 | Year | Project | Technologies |
 |-----|-----|-----|
+| 2026 | Automated Data Pipeline v2 — BashOperator | Python, Airflow, AWS |
 | 2026 | Analytics Engineering Pipeline — dbt + BigQuery (Olist E-Commerce) | dbt, BigQuery, SQL |
-| 2026 | Automated Data Pipeline | Python, Airflow, AWS |
+| 2026 | Automated Data Pipeline v1 — TaskFlow API | Python, Airflow, AWS |
 | 2025 | Open University Final Project | Python, KMeans, LSTM, MongoDB, Streamlit |
 | 2024 | Sentiment Analysis (LSTM) | Python |
 | 2024 | CNN Tree Classification | Python |
@@ -27,8 +28,25 @@ The projects are presented in **chronological order** to illustrate the progress
 ---
 
 # 2026
+## Automated Data Pipeline v2 — BashOperator & Class-Based Redesign (May 2026)
+**Technologies:**  
+Python, Apache Airflow, AWS S3, Docker, Pandas, Matplotlib, ReportLab
 
+**Project Link:**  
+https://github.com/soichi-berson/Airflow_BashOperator_Pipeline
 
+### Overview
+This project builds upon the previous Airflow & AWS ETL pipeline, introducing two key architectural changes:
+
+- Replaced the TaskFlow API with the BashOperator, achieving a cleaner 
+  separation between orchestration logic and business logic
+- Consolidated multiple individual Python files into a single class-based 
+  module, improving cohesion and maintainability
+
+The project demonstrates an understanding of **software design principles** 
+including low coupling, high cohesion, and environment-based configuration, 
+applied within a production-style data engineering pipeline.
+---
 ## dbt Analytics Engineering — Olist E-Commerce Data Modelling (April 2026)
 
 **Technologies:**  
