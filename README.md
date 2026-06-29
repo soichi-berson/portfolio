@@ -54,7 +54,7 @@ applied within a production-style data engineering pipeline.
 dbt Cloud, Google BigQuery, SQL, YAML, GitHub
 
 **Project Link:**  
-https://github.com/soichi-berson/dbt-olist-analytics
+https://github.com/soichi-berson/dbt_olist_milestone1
 
 ### Overview
 
